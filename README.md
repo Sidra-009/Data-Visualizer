@@ -26,12 +26,6 @@ This project is a **Data Structures and Algorithms Visualizer** built using **Ja
 
 ---
 
-## 📸 Screenshots
-
-> 📷 Add screenshots or GIFs of your visualizer interface to showcase how each data structure looks.
-
----
-
 ## 🚀 How to Run
 
 1. Clone the repository:
